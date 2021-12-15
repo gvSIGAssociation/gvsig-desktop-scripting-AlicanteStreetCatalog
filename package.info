@@ -1,0 +1,22 @@
+#
+#Wed Dec 15 17:04:20 CET 2021
+owner=
+code=AlicanteStreetCatalog
+download-url=https\://github.com/gvSIGAssociation/gvsig-desktop-scripting-AlicanteStreetCatalog/releases/download/1.0.0-0/gvSIG-desktop-2.6.0-AlicanteStreetCatalog-1.0.0-0-testing-all-all-j1_8.gvspkg
+java-version=j1_8
+operating-system=all
+description=Cat\u00E1logo calles de Alicante
+official=true
+type=Script
+web-url=
+version=1.0.0-0
+buildNumber=0
+owner-url=
+dependencies=
+sources-url=
+name=AlicanteStreetCatalog
+gvSIG-version=2.6.0
+state=testing
+categories=
+model-version=1.0.1
+architecture=all
